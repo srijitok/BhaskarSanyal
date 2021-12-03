@@ -212,7 +212,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 10px;
   z-index: 9998;
   border: 0;
-  background: none;
+  background: #fff;
   font-size: 28px;
   transition: all 0.4s;
   outline: none !important;
